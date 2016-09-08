@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntegerBaseConverter</string>
+    <string name="enter">Enter</string>
+    <string name="new_base">New Base</string>
+    <string name="initial_base">Initial Base</string>
+    <string name="integer">Integer</string>
+</resources>
